@@ -47,7 +47,7 @@
     "dependencies": {
         "better-sqlite3": "^11.10.0",
         "chokidar": "^4.0.3",
-        "commander": "^13.1.0",
+        "commander": "^14.0.0",
         "cross-env": "^7.0.3",
         "debug": "^4.4.0",
         "express": "^5.1.0",
