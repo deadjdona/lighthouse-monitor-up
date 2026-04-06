@@ -51,7 +51,7 @@
         "cross-env": "^10.1.0",
         "debug": "^4.4.1",
         "express": "^5.2.0",
-        "fs-extra": "^11.3.0",
+        "fs-extra": "^11.3.4",
         "lighthouse": "^12.8.1",
         "mime": "^4.1.0",
         "moment": "^2.30.1",
